@@ -7,6 +7,14 @@ The objective of this project is to:
 - Utilize Azure Databricks to perform data transformation tasks and load the transformed data into Azure Data Synapse Analytics data warehouse, enabling seamless querying and analysis of the data.
 - Create dynamic and interactive dashboards using Power BI to present the analyzed data, providing actionable insights and facilitating informed decision-making.
 
+## Tools and Technology used:
+- Azure Data Factory
+- Azure Databricks
+- Azure Synapse Analytics
+- Azure Data Lake Storage
+- Azure Key Vault
+- Azure Active Directory
+
 ## Dataset:
 Dataset link: https://github.com/NileshMandal/Data-Migration-and-Analytics-with-Azure-Technologies/tree/main/Dataset
 
