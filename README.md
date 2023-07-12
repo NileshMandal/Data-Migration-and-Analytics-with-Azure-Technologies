@@ -8,7 +8,7 @@ The objective of this project is to:
 - Create dynamic and interactive dashboards using Power BI to present the analyzed data, providing actionable insights and facilitating informed decision-making.
 
 ## Dataset:
-Dataset link:
+Dataset link: https://github.com/NileshMandal/Data-Migration-and-Analytics-with-Azure-Technologies/tree/main/Dataset
 
 ## Architecture:![Architecture](https://github.com/NileshMandal/Data-Migration-and-Analytics-with-Azure-Technologies/assets/68818014/959ff431-7155-4497-b6f5-dafbdbc16b02)
 
