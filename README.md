@@ -12,4 +12,7 @@ Dataset link: https://github.com/NileshMandal/Data-Migration-and-Analytics-with-
 
 ## Architecture:![Architecture](https://github.com/NileshMandal/Data-Migration-and-Analytics-with-Azure-Technologies/assets/68818014/959ff431-7155-4497-b6f5-dafbdbc16b02)
 
+## Dashboard:
+![Dashboard Adventure](https://github.com/NileshMandal/Data-Migration-and-Analytics-with-Azure-Technologies/assets/68818014/ec198d1c-b8b4-4c7d-a598-129f2351666f)
+
 
